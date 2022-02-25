@@ -1,0 +1,26 @@
+{
+  "name": "herokuassignment",
+  "version": "1.0.0",
+  "description": "A Class assignment on Heroku Pipepline",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "masambuOfficial",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masambuOfficial/herokuPipepline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/masambuOfficial/herokuPipepline/issues"
+  },
+  "homepage": "https://github.com/masambuOfficial/herokuPipepline#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
